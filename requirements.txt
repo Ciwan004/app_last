@@ -1,0 +1,21 @@
+# Core scientific computing
+numpy==1.26.4
+scipy==1.11.4
+
+# Quantum computing
+qiskit==1.2.4
+qiskit-aer==0.15.1
+qiskit-algorithms==0.3.1
+qiskit-optimization==0.6.1
+qiskit-finance==0.4.1
+
+# Classical optimization
+cvxpy==1.5.3
+
+# API and data handling
+fastapi==0.115.5
+uvicorn==0.32.1
+pydantic==2.10.3
+
+# Utilities
+python-dotenv==1.0.1
